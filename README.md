@@ -2,9 +2,9 @@
 
 I’m Antonio Magherini, MSc student of Civil Engineering - Hydraulic Engineering track at [TU Delft](https://www.tudelft.nl/en/), in the Netherlands.
 
-Apart from hydraulic and particularly river engineering topics, during my studies in Delft I had the opportunity to learn many interesting aspects of modelling, programming, and above all the broad field of machine learning and deep learning (artificial intelligence in general). 
-
 My main interests are river morphodynamics and interventions, river modelling, flood risk and natural hazards mitigation as well as hydrology and in general hydraulic engineering topics.
+
+Apart from hydraulic and particularly river engineering topics, during my studies in Delft I had the opportunity to learn many interesting aspects of modelling, programming, and above all the broad field of machine learning and deep learning (artificial intelligence in general). 
 
 From July 2023 to April 2024 I was teaching assistant at the Faculty of [Civil Engineering and Geosciences](https://www.tudelft.nl/en/ceg) for the common module MUDE - Modelling, Uncertainty and Data for Engineers, that aims to provide the students with the necessary tools for civil engineering and earth sciences applications.
 
