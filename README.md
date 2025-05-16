@@ -9,16 +9,12 @@ I'm currently a research assistant at the [University of Liege](https://www.ulie
 
 During my thesis internship at [Deltares](https://www.deltares.nl/) I worked on morphological modelling of braided sand-bed rivers using deep learning and satellite images. My thesis report is available at [TU Delft repository](https://repository.tudelft.nl/record/uuid:38ea0798-dd3d-4be2-b937-b80621957348). The code repository is available [here](https://github.com/antoniomagherini/jamunet-morpho-braided). I also published an abstract at [EGU General Assembly 2025](https://meetingorganizer.copernicus.org/EGU25/EGU25-650.html).
 
-Previously, I was teaching assistant at the Faculty of Civil Engineering and Geosciences for the common module MUDE - Modelling, Uncertainty and Data for Engineers, which provides the students with the necessary tools for civil engineering and earth sciences applications. Later I was also student assistant for the project STREAMS - Stakeholder Training in River Engineering And Management Simulation. Within this project we developed Facing Floods, a serious game for simulating stakeholder participation in river engineering decision-making processes available on [Edusources](https://edusources.nl/materials/5ba408f1-5384-4569-b7f7-67319363a30e/facing-floods-a-stakeholder-river-management-game).
+Previously, I was teaching assistant at the Faculty of Civil Engineering and Geosciences for the common module MUDE - Modelling, Uncertainty and Data for Engineers, which provides the students with the necessary tools for civil engineering and earth sciences applications. Later I was also student assistant for the project STREAMS - Stakeholder Training in River Engineering And Management Simulation. Within this project we developed Facing Floods, a serious game for simulating stakeholder participation in river engineering decision-making processes. The game is available on [Edusources](https://edusources.nl/materials/5ba408f1-5384-4569-b7f7-67319363a30e/facing-floods-a-stakeholder-river-management-game).
 
-If you wish to contact me, please send an e-mail to *antonio.magherini@gmail.com*.
+If you wish to contact me, please send an e-mail to *antonio.magherini@gmail.com* or *amagherini@uliege.be*.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/antonio-magherini-4349b2229/), [Google Scholar](https://scholar.google.com/citations?user=hzIsSuwAAAAJ&hl=it), and [ResearchGate](https://www.researchgate.net/profile/Antonio-Magherini).
-I'm looking forward to get in touch with you! :) 
+\
+I'm looking forward to getting in touch with you! :) 
 
 [^1]: The image is downloaded from [Your Name in Landsat](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/) website.
-
-<!---
-antoniomagherini99/antoniomagherini99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
