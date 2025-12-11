@@ -1,4 +1,4 @@
-![Welcome](https://github.com/user-attachments/assets/e53a9f0a-3144-4e2d-a3c2-466f0cfa2614)[^1]
+![Ciao](https://github.com/user-attachments/assets/c757c4a3-bf1f-48af-83fe-46d4c6a1bdcd)[^1]
 
 I’m Antonio Magherini, PhD candidate of River Morphodynamics at [STREEM Lab](https://www.epfl.ch/labs/streem/) of [EPFL](https://www.epfl.ch/en/), in Switzerland. 
 \
@@ -28,4 +28,4 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/antonio-magherini
 \
 I'm looking forward to getting in touch with you! :) 
 
-[^1]: The image is downloaded from [Your Name in Landsat](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/) website.
+[^1]: The image is downloaded from [Your Name in Landsat](https://science.nasa.gov/specials/your-name-in-landsat/) website.
