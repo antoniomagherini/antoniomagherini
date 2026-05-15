@@ -1,8 +1,8 @@
 ![Ciao](https://github.com/user-attachments/assets/c757c4a3-bf1f-48af-83fe-46d4c6a1bdcd)[^1]
 
-I’m Antonio Magherini, PhD candidate in River Morphodynamics at [STREEM Lab](https://www.epfl.ch/labs/streem/) of [EPFL](https://www.epfl.ch/en/), in Switzerland. 
+I’m Antonio Magherini, PhD candidate in River Morphodynamics at the [STREEM Lab](https://www.epfl.ch/labs/streem/) of [EPFL](https://www.epfl.ch/en/), in Switzerland. 
 \
-My research project focuses on the two-dimensional characterization of river bedforms and the quantification of their contribution to sediment transport. Besides lab data analysis, I expect to include some morphodynamic modelling with both traditional physics-based and innovative data-driven models. 
+My research project focuses on the three-dimensional characterization of river bedforms and the quantification of their contribution to sediment transport. Besides lab data analysis, I expect to include some morphodynamic modelling with both traditional physics-based and innovative data-driven models. 
 
 I hold a MSc in Civil Engineering - Hydraulic Engineering track from [TU Delft](https://www.tudelft.nl/en/), in the Netherlands.
 \
